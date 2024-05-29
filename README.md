@@ -7,5 +7,6 @@
 </ul>
 <br>
 <h2>Output:</h2>
-<img src="images/image 1.png>
-<img src="images/image 1.png>
+<img src="images/image 1.png">
+<br>
+<img src="images/image 1.png">
