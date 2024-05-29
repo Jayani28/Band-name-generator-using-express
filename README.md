@@ -1,5 +1,5 @@
 # Band-name-generator-using-express
-Installation:
+<h2>Installation:</h2>
 <ul>
   <li>Run command <b>npm i</b> to install node modules</li>
   <li>Run <b>nodemon index.js</b></li>
